@@ -29,9 +29,9 @@ This project used data from:
  -	_Relationship Between Production Budge & Worldwide Gross_
  -	_Worldwide Gross grouped by Month of Release_
 
-<img src="budget vs gross.png">
+<img src='Images/budget_vs_gross.png'>
 
-<img src="Worldwide Gross grouped by Month of Release.png">
+<img src='Images/Worldwide_Gross_grouped_by_Month_of_Release.png'>
 
 ### tnimdb (tn joined with imdb): 3,325 films from 1915 to 2019
 -	__Used for:__
@@ -40,60 +40,60 @@ This project used data from:
 
 > January Top 3 Genres: __Sport, Animation, Horror__ 
 
-![jan-2.png](attachment:jan-2.png)
+<img src='Images/jan.png'>
 
 > February Top 3 Genres: __Musical, Music, Adventure__ 
 
-![feb-2.png](attachment:feb-2.png)
+<img src='Images/feb.png'>
 
 > March Top 3 Genres: __Musical, Fantasy, Documentary__ 
 
-![mar.png](attachment:mar.png)
+<img src='Images/mar.png'>
 
 > April Top 3 Genres: __Animation, Adventure, Sci-Fi__ 
 
-![apr.png](attachment:apr.png)
+<img src='Images/apr.png'>
 
 > May Top 3 Genres: __Animation, Sci-Fi, Adventure__ 
 
-![may.png](attachment:may.png)
+<img src='Images/may.png'>
 
 > June Top 3 Genres: __Sci-Fi, Animation, Adventure__ 
 
-![jun.png](attachment:jun.png)
+<img src='Images/jun.png'>
 
 > July Top 3 Genres: __Animation, Adventure, Action__ 
 
-![jul.png](attachment:jul.png)
+<img src='Images/jul.png'>
 
 > August Top 3 Genres: __Fantasy, Adventure, Action__ 
 
-![aug.png](attachment:aug.png)
+<img src='Images/aug.png'>
 
 > September Top 3 Genres: __Animation, Family, Musical__ 
 
-![sep.png](attachment:sep.png)
+<img src='Images/sep.png'>
 
 > October Top 3 Genres: __Animation, Sci-Fi, Thriller__ 
 
-![oct.png](attachment:oct.png)
+<img src='Images/oct.png'>
 
 > November Top 3 Genres: __Fantasy, Animation, Adventure__ 
 
-![nov.png](attachment:nov.png)
+<img src='Images/nov.png'>
 
 > December Top 3 Genres: __Horror, Fantasy, Adventure__ 
 
-![dec.png](attachment:dec.png)
+<img src='Images/dec.png'>
 
 ### rttnimdb (rt joined with tnimdb): 67 films from 2010 to 2018
 -	__Used for:__
  -	_Worldwide Gross grouped by Rating_
  -	_Money Spent vs Money Returned_
 
-![gross%20by%20rating.png](attachment:gross%20by%20rating.png)
+<img src='Images/gross_by_rating.png'>
 
-![return%20on%20investment.png](attachment:return%20on%20investment.png)
+<img src='Images/return_on_investment.png'>
 
 ## Methods
 This project uses descriptive and visual analysis, including description of trends over time. This provides a useful overview of film industry trends, specifically the factors that contribute to increased worldwide gross. 
