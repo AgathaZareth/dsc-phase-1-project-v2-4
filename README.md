@@ -29,9 +29,9 @@ This project used data from:
  -	_Relationship Between Production Budge & Worldwide Gross_
  -	_Worldwide Gross grouped by Month of Release_
 
-![budget%20vs%20gross.png](attachment:budget%20vs%20gross.png)
+<img src="budget vs gross.png">
 
-![Worldwide%20Gross%20grouped%20by%20Month%20of%20Release.png](attachment:Worldwide%20Gross%20grouped%20by%20Month%20of%20Release.png)
+<img src="Worldwide Gross grouped by Month of Release.png">
 
 ### tnimdb (tn joined with imdb): 3,325 films from 1915 to 2019
 -	__Used for:__
